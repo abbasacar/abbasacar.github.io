@@ -35,7 +35,7 @@
     <item>
       <title>A lightweight IoT cryptojacking detection mechanism in heterogeneous smart home networks</title>
       <link>https://abbasacar.github.io/publication/android-security-updates/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://abbasacar.github.io/publication/android-security-updates/</guid>
       <description>&lt;!-- 
 
@@ -579,7 +579,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-316428975&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-521749683&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -589,7 +589,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-316428975&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-521749683&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1054,10 +1054,10 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>A First Look at Code Obfuscation for WebAssembly</title>
-      <link>https://abbasacar.github.io/publication/malware-trends/</link>
+      <title>A privacy-preserving multifactor authentication system</title>
+      <link>https://abbasacar.github.io/publication/wiley-sp-pinta/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://abbasacar.github.io/publication/malware-trends/</guid>
+      <guid>https://abbasacar.github.io/publication/wiley-sp-pinta/</guid>
       <description>&lt;!-- 
 
 
@@ -1082,10 +1082,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
-      <title>A privacy-preserving multifactor authentication system</title>
-      <link>https://abbasacar.github.io/publication/wiley-sp-pinta/</link>
+      <title>An Analysis of Malware Trends in Enterprise Networks</title>
+      <link>https://abbasacar.github.io/publication/malware-trends/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://abbasacar.github.io/publication/wiley-sp-pinta/</guid>
+      <guid>https://abbasacar.github.io/publication/malware-trends/</guid>
       <description>&lt;!-- 
 
 
