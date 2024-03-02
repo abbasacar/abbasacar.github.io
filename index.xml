@@ -61,6 +61,15 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
+      <title></title>
+      <link>https://abbasacar.github.io/news/ndss-2024/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://abbasacar.github.io/news/ndss-2024/</guid>
+      <description>&lt;p&gt;Our paper, titled &amp;quot;50 Shades of Support: A Device-Centric Analysis of Android Security Updates&amp;quot; has been accepted for publication at &lt;a href=&#34;https://www.ndss-symposium.org/ndss2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NDSS 2024&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>RøB: Ransomware over Modern Web Browsers</title>
       <link>https://abbasacar.github.io/publication/rob/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
