@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>journal | Abbas Acar</title>
+    <title>Journal | Abbas Acar</title>
     <link>https://abbasacar.github.io/publication-type/journal/</link>
       <atom:link href="https://abbasacar.github.io/publication-type/journal/index.xml" rel="self" type="application/rss+xml" />
-    <description>journal</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <description>Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://abbasacar.github.io/media/icon_hu221fc18af61fd16675041b37d8cb9d96_25246_512x512_fill_lanczos_center_3.png</url>
-      <title>journal</title>
+      <title>Journal</title>
       <link>https://abbasacar.github.io/publication-type/journal/</link>
     </image>
     
