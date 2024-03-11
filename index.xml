@@ -33,6 +33,15 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://abbasacar.github.io/news/ftc-privacycon-2024/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://abbasacar.github.io/news/ftc-privacycon-2024/</guid>
+      <description>&lt;p&gt;I had the privilege of presenting our work on Android security updates at &lt;a href=&#34;https://www.ftc.gov/news-events/events/2024/03/privacycon-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FTC PrivacyCon 2024&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>50 Shades of Support: A Device-Centric Analysis of Android Security Updates</title>
       <link>https://abbasacar.github.io/publication/android-security-updates/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
@@ -57,6 +66,15 @@
 
 
 Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://abbasacar.github.io/news/usenix-2024/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://abbasacar.github.io/news/usenix-2024/</guid>
+      <description>&lt;p&gt;Our paper, titled &amp;quot;EVOKE: Efficient Revocation of Verifiable Credentials in IoT Networks&amp;quot; has been accepted for publication at &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity24/fall-accepted-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USENIX Security 2024&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
